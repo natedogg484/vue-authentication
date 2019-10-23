@@ -15,7 +15,7 @@
                   placeholder="Enter Username"
                 />
                 <small
-                  id="emailHelp"
+                  id="infoHelp"
                   class="form-text"
                 >We'll never share your information with anyone else.</small>
               </div>

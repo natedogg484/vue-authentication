@@ -15,7 +15,7 @@ export default {
     Register
   },
   methods: {
-    create(user) {
+    register(user) {
       axios
         .post("http://localhost:5000/registration", user)
         .then(response => console.log(response.data))
